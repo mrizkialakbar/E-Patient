@@ -607,6 +607,66 @@ video {
   right: 1.25rem;
 }
 
+.left-\[120\.91px\] {
+  left: 120.91px;
+}
+
+.left-\[130\.03px\] {
+  left: 130.03px;
+}
+
+.left-\[16\.29px\] {
+  left: 16.29px;
+}
+
+.left-\[17\.92px\] {
+  left: 17.92px;
+}
+
+.left-\[18\.90px\] {
+  left: 18.90px;
+}
+
+.left-\[35\.20px\] {
+  left: 35.20px;
+}
+
+.left-\[40\.74px\] {
+  left: 40.74px;
+}
+
+.top-\[-0px\] {
+  top: -0px;
+}
+
+.top-\[102\.98px\] {
+  top: 102.98px;
+}
+
+.top-\[11\.08px\] {
+  top: 11.08px;
+}
+
+.top-\[26\.07px\] {
+  top: 26.07px;
+}
+
+.top-\[28\.68px\] {
+  top: 28.68px;
+}
+
+.top-\[49\.86px\] {
+  top: 49.86px;
+}
+
+.top-\[92\.55px\] {
+  top: 92.55px;
+}
+
+.top-\[98\.75px\] {
+  top: 98.75px;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -652,6 +712,38 @@ video {
   height: 87.75px;
 }
 
+.h-\[104\.29px\] {
+  height: 104.29px;
+}
+
+.h-\[114\.39px\] {
+  height: 114.39px;
+}
+
+.h-\[12\.71px\] {
+  height: 12.71px;
+}
+
+.h-\[125\.47px\] {
+  height: 125.47px;
+}
+
+.h-\[13\.36px\] {
+  height: 13.36px;
+}
+
+.h-\[182\.50px\] {
+  height: 182.50px;
+}
+
+.h-\[6\.19px\] {
+  height: 6.19px;
+}
+
+.h-\[7\.17px\] {
+  height: 7.17px;
+}
+
 .w-6 {
   width: 1.5rem;
 }
@@ -686,6 +778,38 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-\[102\.17px\] {
+  width: 102.17px;
+}
+
+.w-\[114\.39px\] {
+  width: 114.39px;
+}
+
+.w-\[12\.71px\] {
+  width: 12.71px;
+}
+
+.w-\[13\.36px\] {
+  width: 13.36px;
+}
+
+.w-\[145\.02px\] {
+  width: 145.02px;
+}
+
+.w-\[182\.50px\] {
+  width: 182.50px;
+}
+
+.w-\[6\.19px\] {
+  width: 6.19px;
+}
+
+.w-\[7\.17px\] {
+  width: 7.17px;
 }
 
 .max-w-screen-sm {
@@ -808,6 +932,10 @@ video {
   border-radius: 0.375rem;
 }
 
+.rounded-full {
+  border-radius: 9999px;
+}
+
 .border {
   border-width: 1px;
 }
@@ -844,6 +972,11 @@ video {
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.bg-rose-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 228 230 / var(--tw-bg-opacity));
 }
 
 .p-2 {
@@ -1045,6 +1178,11 @@ video {
 .text-gray-500 {
   --tw-text-opacity: 1;
   color: rgb(107 114 128 / var(--tw-text-opacity));
+}
+
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
 .placeholder-gray-400::-moz-placeholder {
